@@ -1,0 +1,25 @@
+body{
+  margin:0px;
+  background-image: url(images/stars.jpg);//---->(IMAGE OF YOUR CHOICE,I JUST USED WHAT I HAD)
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#clock-container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+}
+
+#clock{
+  font-family: monospace;
+  font-size:4rem;
+  font-weight:bold;
+  text-align:center;
+  color:whitesmoke;
+ 
+
+}
